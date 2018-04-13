@@ -41,5 +41,18 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>UIApplicationShortcutItems</key>
+	<array>
+		<dict>
+			<key>UIApplicationShortcutItemType</key>
+			<string>de.thomassillmann.TSHomeScreenQuickActions.printHelloWorld</string>
+			<key>UIApplicationShortcutItemTitle</key>
+			<string>Hello World</string>
+			<key>UIApplicationShortcutItemSubtitle</key>
+			<string>Print the text</string>
+			<key>UIApplicationShortcutItemIconType</key>
+			<string>UIApplicationShortcutIconTypeMessage</string>
+		</dict>
+	</array>
 </dict>
 </plist>
